@@ -5,7 +5,7 @@ You can call me **Saleh**.
 
 - 🔭 I’m currently working as a Biomedical Signal Processing and Artificial Intelligence Specialist in the NBZ tech.
 - 🌱 I'm an Electrical and Electronics Engineering student at AUT.
-- 📫 How to reach me: smsmt@aut.ac.ir / mirzatabataba@gmail.com
+- 📫 How to reach me: smsmt@aut.ac.ir / seyedsaleh.edu@gmail.com
 
 
 ---
