@@ -1,6 +1,6 @@
 ## Hi! 
 
-- 👋🏻 I know, My official name is a bit long :) Feel free and call me **Saleh**.
+- 👋🏻 I know my official name is a bit long :) Feel free and call me **Saleh**.
 - 📗 I am studying Electrical Engineering at AUT.
 - 🔭 I am currently working as a Medical Signal Processing Specialist in the NABZ tech Co.
 ### How to reach me:
