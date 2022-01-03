@@ -2,7 +2,7 @@
 
 - 👋🏻 I know my official name is a bit long :) Feel free and call me **Saleh**.
 - 📗 I am studying **Electrical Engineering** with minor in **Computer Engineering** at AUT.
-- 🔭 **Researcher and Developer** in the field of **Artificial Intelligence**. I am currently working as a **Medical Signal Processing Specialist** in the NABZ tech Co.
+- 🔭 I am passionate about **Research and Develope** in the field of **Artificial Intelligence**, and currently working as a **Medical Signal Processing Specialist** in the NABZ tech Co.
 ### How to reach me:
 [<img align="left" alt="Seyedmohammadsaleh Mirzatabatabaei | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Seyedmohammadsaleh Mirzatabatabaei | Gmail" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" />][Email]
