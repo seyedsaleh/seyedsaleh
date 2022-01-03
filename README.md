@@ -1,11 +1,17 @@
-## Hi! 👋🏻
+## Hi! 
 
+- 👋🏻 You can call me **Saleh**.
+- 🔭 I am currently working as a Medical Signal Processing Specialist in the NABZ tech Co.
+- 📗 I am studying Electrical Engineering at AUT.
+### How to reach me:
+[<img align="left" alt="Seyedmohammadsaleh Mirzatabatabaei | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Seyedmohammadsaleh Mirzatabatabaei | Gmail" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" />][Email]
+[<img align="left" alt="Seyedmohammadsaleh Mirzatabatabaei | Researchgate" width="30px" src="https://www.pngrepo.com/png/314548/180/researchgate.png" />][Researchgate]
 
-You can call me **Saleh**.
-
-- 🔭 I’m currently working as a Biomedical Signal Processing and Artificial Intelligence Specialist in the NBZ tech.
-- 🌱 I'm an Electrical and Electronics Engineering student at AUT.
-- 📫 How to reach me: smsmt@aut.ac.ir / seyedsaleh.edu@gmail.com
+[Email]: seyedsaleh.edu@gmail.com
+[linkedin]: https://www.linkedin.com/in/salehtabatabaei/
+[Researchgate]: https://www.researchgate.net/profile/Seyed-Mohammadsaleh-Mirzatabatabaei
+<br />
 
 
 ---
@@ -16,7 +22,7 @@ You can call me **Saleh**.
 </p>
 </div>
 
+
 <!--
 **seyedsaleh/seyedsaleh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 -->
