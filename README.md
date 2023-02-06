@@ -1,7 +1,9 @@
 ## Hi! 
 
 - 👋🏻 Feel free and call me **Saleh**.
+- 
 - 📗 I'm currently pursuing a degree in **Biomedical Engineering** at the **University of Toronto**. My academic background includes an undergraduate degree in **Electrical Engineering** with a minor in Computer Engineering from Amirkabir University of Technology.
+- 
 - 🔭 My passion lies in the field of **Artificial Intelligence** and its applications in research of medical development. I am privileged to work as a Graduate Lab Researcher at the **Sunnybrook Orthopedic Biomechanics Laboratory** and have previously worked as a **Medical Signal Processing Specialist** at NABZ tech Co.
 
 ### How to reach me:
