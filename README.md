@@ -19,11 +19,11 @@
 <div align="center">
 <p>
 <!--
- <img src="https://user-images.githubusercontent.com/47852354/138564509-b5dffb4e-f48b-4db5-b8a4-1385ef2b22c8.png" width="70" href="https://bme.utoronto.ca/">
- <img src="https://user-images.githubusercontent.com/47852354/140581080-2cfbac46-de19-4f8b-a0bf-ac0eab8bfd8a.png" width="45" href="https://sunnybrook.ca/research/content/?page=sri-groups-obl-about">
+ <img src="https://user-images.githubusercontent.com/47852354/138564509-b5dffb4e-f48b-4db5-b8a4-1385ef2b22c8.png" width="70">
+ <img src="https://user-images.githubusercontent.com/47852354/140581080-2cfbac46-de19-4f8b-a0bf-ac0eab8bfd8a.png" width="45">
 -->
- <img src="https://ocw.utoronto.ca/wp-content/themes/olstheme/img/u-of-t-logo.png" width="100">
- <img src="https://sunnybrook.ca/uploads/sri_obl_fr.jpg" width="60">
+ <a href="https://bme.utoronto.ca/"> <img src="https://ocw.utoronto.ca/wp-content/themes/olstheme/img/u-of-t-logo.png" width="100">  </a>
+ <a href="https://sunnybrook.ca/research/content/?page=sri-groups-obl-about"> <img src="https://sunnybrook.ca/uploads/sri_obl_fr.jpg" width="60"> </a>
 </p>
 </div>
 
