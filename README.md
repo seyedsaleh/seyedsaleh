@@ -1,8 +1,9 @@
 ## Hi! 
 
-- 👋🏻 I know my official name is a bit long :) Feel free and call me **Saleh**.
-- 📗 I am studying **Electrical Engineering** with minor in **Computer Engineering** at AUT.
-- 🔭 I am passionate about **Research and Develop** in the field of **Artificial Intelligence**, and currently working as a **Medical Signal Processing Specialist** in the NABZ tech Co.
+- 👋🏻 Feel free and call me **Saleh**.
+- 📗 I'm currently pursuing a degree in **Biomedical Engineering** at the **University of Toronto**. My academic background includes an undergraduate degree in **Electrical Engineering** with a minor in Computer Engineering from Amirkabir University of Technology.
+- 🔭 My passion lies in the field of **Artificial Intelligence** and its applications in research of medical development. I am privileged to work as a Graduate Lab Researcher at the **Sunnybrook Orthopedic Biomechanics Laboratory** and have previously worked as a **Medical Signal Processing Specialist** at NABZ tech Co.
+
 ### How to reach me:
 [<img align="left" alt="Seyedmohammadsaleh Mirzatabatabaei | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Seyedmohammadsaleh Mirzatabatabaei | Gmail" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" />][Email]
